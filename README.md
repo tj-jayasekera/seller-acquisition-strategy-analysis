@@ -88,22 +88,20 @@ All analysis is performed on the gold.channel_scorecard table. [View Scripts](ht
 
 ## Key Insights
 
-1️⃣ Paid Search = Best Overall Performer
+1️) **Paid Search** is the Best Overall Performer
 - High revenue, high activation rate, strong seller volume
 
-2️⃣ Organic Search = Highest Overall Revenue
+2️) **Organic Search** has the Highest Overall Revenue
 - Highest total revenue, largest seller base, moderate activation
 
-3️⃣ Referral = High-Value Sellers
+3️) **Referral** has High-Value Sellers
 - Highest avg revenue per seller, fastest lifecycle, low revenue skew
 
-Small volume, but high-quality and consistent.
-
-4️⃣ Direct Traffic = Highly Committed Sellers
+4️) **Direct Traffic** has Highly Committed Sellers
 - Highest seller activity rate, lower total revenue
 
-5️⃣ Revenue Skew Risk
-- Organic & Email heavily skewed by top sellers, referral revenue more evenly distributed
+5️) Revenue Skew Risk
+- **Organic** & **Email** heavily skewed by top sellers, referral revenue more evenly distributed
 
 
 ## Strategic Takeaways
