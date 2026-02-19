@@ -1,12 +1,12 @@
 ## 📚 Table of Contents
 
-- [🏢 Business Context](#-business-context)
-- [🛠 Tools](#-tools)
-- [🎯 Business Problem](#-business-problem)
-- [🏗 Data Architecture](#-data-architecture)
-- [📊 Dashboard](#-dashboard)
-- [📈 Key Insights](#-key-insights)
-- [🎯 Strategic Takeaways](#-strategic-takeaways)
+- [🏢 Business Context](#business-context)
+- [🛠 Tools](#tools)
+- [🎯 Business Problem](#business-problem)
+- [🏗 Data Architecture](#data-architecture)
+- [📊 Dashboard](#dashboard)
+- [📈 Key Insights](#key-insights)
+- [🎯 Strategic Takeaways](#strategic-takeaways)
 
 ## 🏢 Business Context
 
