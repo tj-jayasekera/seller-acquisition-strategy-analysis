@@ -104,7 +104,7 @@ All analysis is performed on the gold.channel_scorecard table. [View Scripts](ht
 - **Organic** & **Email** heavily skewed by top sellers (both channels over 60% skewed), referral revenue more evenly distributed
 
 
-## Strategic Takeaways
+## Strategic Recommendations
 
 - **Invest further in Paid Search**: 
 This is the only channel combining strong revenue scale and high activation efficiency. Continued investment here is likely to drive both growth and performance quality.
