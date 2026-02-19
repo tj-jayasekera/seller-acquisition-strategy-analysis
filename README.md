@@ -99,3 +99,10 @@ Small volume, but high-quality and consistent.
 - Improve activation for Organic sellers
 - Monitor skew risk in Email & Organic
 
+---
+
+📊**Dashboard**
+
+<img width="1440" height="865" alt="Screenshot 2026-02-19 at 3 45 31 pm" src="https://github.com/user-attachments/assets/326d2ffa-d979-4b0c-ad70-16923e2d424e" />
+
+
