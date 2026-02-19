@@ -38,7 +38,6 @@ Olist invests in multiple seller acquisition channels:
 But:
 	•	**Which channels scale revenue?**
 	•	**Which convert sellers efficiently?**
-	•	**Which maintain quality?**
 	•	**Which produce sustainable performance?**
 
 The goal of this project was to evaluate acquisition channel effectiveness across the full seller lifecycle, not just revenue volume.
@@ -56,18 +55,18 @@ Raw Olist marketplace datasets imported from Kaggle.
 🥈 Silver
 
 Cleaned and transformed views:
-	•	Standardised timestamps
-	•	Removed nulls
-	•	Created delivery performance flags
-	•	Structured lifecycle fields
+- Standardised timestamps
+- Removed nulls
+- Created delivery performance flags
+- Structured lifecycle fields
 
 🥇 Gold
 
-Aggregated business-ready tables:
-	•	seller_sales_summary
-	•	seller_experience_summary
-	•	seller_master
-	•	channel_scorecard
+Aggregated analysis-ready tables:
+- seller_sales_summary
+- seller_experience_summary
+- seller_master
+- channel_scorecard
 
 All analysis is performed on the gold.channel_scorecard table.
 
@@ -76,43 +75,27 @@ All analysis is performed on the gold.channel_scorecard table.
 📊 **Key Insights**
 
 1️⃣ Paid Search = Best Overall Performer
-	•	High revenue
-	•	High activation rate
-	•	Strong seller volume
-
-Most balanced and scalable channel.
+- High revenue, high activation rate, strong seller volume
 
 2️⃣ Organic Search = Revenue Engine
-	•	Highest total revenue
-	•	Largest seller base
-	•	Moderate activation
-
-Drives scale, but less efficient per seller.
+- Highest total revenue, largest seller base, moderate activation
 
 3️⃣ Referral = High-Value Sellers
-	•	Highest avg revenue per seller
-	•	Fastest lifecycle
-	•	Low revenue skew
+- Highest avg revenue per seller, fastest lifecycle, low revenue skew
 
 Small volume, but high-quality and consistent.
 
 4️⃣ Direct Traffic = Highly Committed Sellers
-	•	Highest seller activity rate
-	•	Lower total revenue
-
-Efficient channel, but not a growth driver.
+- Highest seller activity rate, lower total revenue
 
 5️⃣ Revenue Skew Risk
-	•	Organic & Email heavily skewed by top sellers
-	•	Referral revenue more evenly distributed
-
-Some channels rely on a few high performers.
+- Organic & Email heavily skewed by top sellers, referral revenue more evenly distributed
 
 ---
 
 🎯 **Strategic Takeaways**
-	•	Invest further in Paid Search
-	•	Expand Referral programs
-	•	Improve activation for Organic sellers
-	•	Monitor skew risk in Email & Organic
+- Invest further in Paid Search
+- Expand Referral programs
+- Improve activation for Organic sellers
+- Monitor skew risk in Email & Organic
 
