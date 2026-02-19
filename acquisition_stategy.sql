@@ -6,7 +6,7 @@ Build a multi-layer (Bronze → Silver → Gold) data model to evaluate
 acquisition channel performance across revenue, activation efficiency,
 customer experience, and lifecycle duration.
 
-Author: TJ Jayasekera
+Author: Theekshana Jayasekera
 */
 
 create schema bronze;
