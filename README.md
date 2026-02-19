@@ -3,8 +3,8 @@
 ## 📚 Table of Contents
 
 - [🏢 Business Context](#business-context)
-- [🛠 Tools](#tools)
 - [🎯 Business Problem](#business-problem)
+- [🛠 Tools](#tools)
 - [🏗 Data Architecture](#data-architecture)
 - [📊 Dashboard](#dashboard)
 - [📈 Key Insights](#key-insights)
@@ -78,7 +78,7 @@ Aggregated analysis-ready tables:
 - seller_master
 - channel_scorecard
 
-All analysis is performed on the gold.channel_scorecard table.
+All analysis is performed on the gold.channel_scorecard table. [View Scripts](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/blob/main/acquisition_stategy.sql)
 
 
 ## Dashboard
