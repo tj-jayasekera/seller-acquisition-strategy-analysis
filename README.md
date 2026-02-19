@@ -77,7 +77,7 @@ All analysis is performed on the gold.channel_scorecard table.
 1️⃣ Paid Search = Best Overall Performer
 - High revenue, high activation rate, strong seller volume
 
-2️⃣ Organic Search = Revenue Engine
+2️⃣ Organic Search = Highest Overall Revenue
 - Highest total revenue, largest seller base, moderate activation
 
 3️⃣ Referral = High-Value Sellers
