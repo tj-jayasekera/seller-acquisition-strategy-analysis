@@ -28,12 +28,6 @@ Together, the datasets and dashboard allow full lifecycle analysis:
 Lead acquisition → Deal conversion → First sale → Revenue performance → Customer experience
 
 
-## Tools
-
-- PostGreSQL for data modelling and analysis: [View Scripts](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/blob/main/acquisition_stategy.sql)
-- Tableau for data visualisation: [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist/AcquisitionStrategyandPerformanceDashboard)
-
-
 ## Business Problem
 
 Olist invests in multiple seller acquisition channels:
@@ -51,6 +45,13 @@ But:
 - **Which produce sustainable performance?**
 
 The goal of this project was to evaluate acquisition channel effectiveness across the full seller lifecycle, not just revenue volume.
+
+
+
+## Tools
+
+- PostGreSQL for data modelling and analysis: [View Scripts](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/blob/main/acquisition_stategy.sql)
+- Tableau for data visualisation: [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist/AcquisitionStrategyandPerformanceDashboard)
 
 
 ## Data Architecture
