@@ -23,7 +23,7 @@ Two **datasets** from Kaggle were used for this analysis:
 - The [O-List E-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) containing ecommerce orders, seller information, customer review scores
 - The [Marketing Funnel dataset](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) containing Marketing Qualified Leads (MQLs), lead acquisition channels, closed deal timestamps
 
-Together, the datasets and dashboard allow full lifecycle analysis:
+Together, the datasets allow full lifecycle analysis:
 
 Lead acquisition → Deal conversion → First sale → Revenue performance → Customer experience
 
