@@ -1,4 +1,14 @@
-🏢 **Business Context**
+## 📚 Table of Contents
+
+- [🏢 Business Context](#-business-context)
+- [🛠 Tools](#-tools)
+- [🎯 Business Problem](#-business-problem)
+- [🏗 Data Architecture](#-data-architecture)
+- [📊 Dashboard](#-dashboard)
+- [📈 Key Insights](#-key-insights)
+- [🎯 Strategic Takeaways](#-strategic-takeaways)
+
+## 🏢 Business Context
 
 **Olist** is one of Brazil’s largest marketplace integrators, connecting small businesses to major ecommerce platforms under a single contract.
 
@@ -17,14 +27,14 @@ Lead acquisition → Deal conversion → First sale → Revenue performance → 
 
 ---
 
-**🛠 Tools**
+## Tools
 
 - PostGreSQL for data modelling and analysis: [View Scripts](https://github.com/tj-jayasekera/seller-acquisition-strategy-analysis/blob/main/acquisition_stategy.sql)
 - Tableau for data visualisation: [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera7098/viz/SellerAcquisitionStrategyDashboardOlist/AcquisitionStrategyandPerformanceDashboard)
 
 ---
 
-**🎯 Business Problem**
+## Business Problem
 
 Olist invests in multiple seller acquisition channels:
 	•	Organic Search
@@ -44,7 +54,7 @@ The goal of this project was to evaluate acquisition channel effectiveness acros
 
 ---
 
-**🏗 Data Architecture**
+## Data Architecture
 
 This project follows a Bronze → Silver → Gold layered architecture:
 
@@ -72,7 +82,13 @@ All analysis is performed on the gold.channel_scorecard table.
 
 ---
 
-📊 **Key Insights**
+## Dashboard
+
+<img width="1440" height="865" alt="Screenshot 2026-02-19 at 3 45 31 pm" src="https://github.com/user-attachments/assets/326d2ffa-d979-4b0c-ad70-16923e2d424e" />
+
+---
+
+## Key Insights
 
 1️⃣ Paid Search = Best Overall Performer
 - High revenue, high activation rate, strong seller volume
@@ -93,16 +109,9 @@ Small volume, but high-quality and consistent.
 
 ---
 
-🎯 **Strategic Takeaways**
+## Strategic Takeaways
 - Invest further in Paid Search
 - Expand Referral programs
 - Improve activation for Organic sellers
 - Monitor skew risk in Email & Organic
-
----
-
-📊**Dashboard**
-
-<img width="1440" height="865" alt="Screenshot 2026-02-19 at 3 45 31 pm" src="https://github.com/user-attachments/assets/326d2ffa-d979-4b0c-ad70-16923e2d424e" />
-
 
