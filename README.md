@@ -3,9 +3,9 @@
 **Olist** is one of Brazil’s largest marketplace integrators, connecting small businesses to major ecommerce platforms under a single contract.
 
 Sellers:
-	•	List products via Olist
-	•	Ship directly to customers using Olist logistics partners
-	•	Are evaluated via post-delivery customer satisfaction surveys
+- List products via Olist
+- Ship directly to customers using Olist logistics partners
+- Are evaluated via post-delivery customer satisfaction surveys
 
 Two **datasets** from Kaggle were used for this analysis:
 - The [O-List E-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) containing ecommerce orders, seller information, customer review scores
@@ -36,9 +36,9 @@ Olist invests in multiple seller acquisition channels:
 	•	Display
 
 But:
-	•	**Which channels scale revenue?**
-	•	**Which convert sellers efficiently?**
-	•	**Which produce sustainable performance?**
+- **Which channels scale revenue?**
+- **Which convert sellers efficiently?**
+- **Which produce sustainable performance?**
 
 The goal of this project was to evaluate acquisition channel effectiveness across the full seller lifecycle, not just revenue volume.
 
