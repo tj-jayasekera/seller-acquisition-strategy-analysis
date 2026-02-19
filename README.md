@@ -101,12 +101,20 @@ All analysis is performed on the gold.channel_scorecard table. [View Scripts](ht
 - Highest seller activity rate, lower total revenue
 
 5️) Revenue Skew Risk
-- **Organic** & **Email** heavily skewed by top sellers, referral revenue more evenly distributed
+- **Organic** & **Email** heavily skewed by top sellers (both channels over 60% skewed), referral revenue more evenly distributed
 
 
 ## Strategic Takeaways
-- Invest further in Paid Search
-- Expand Referral programs
-- Improve activation for Organic sellers
-- Monitor skew risk in Email & Organic
+
+- **Invest further in Paid Search**
+This is the only channel combining strong revenue scale and high activation efficiency. Continued investment here is likely to drive both growth and performance quality.
+
+- **Expand Referral programs**
+Although smaller in volume, referral sellers show the highest revenue per seller and fastest lifecycle. Expanding this channel by increasing referral programs could drive high-value growth.
+
+- **Improve activation for Organic sellers**
+Organic drives the highest total revenue through scale, but seller activation rates lag behind. Improving onboarding and enabling sellers earlier on could significantly lift ROI.
+
+- **Monitor skew risk in Email & Organic**
+Revenue in these channels is concentrated among a small number of high performers. Monitoring distribution and supporting mid-tier sellers will improve sustainability.
 
