@@ -1,3 +1,5 @@
+# Seller Acquisition Strategy & Channel Performance Analysis
+
 ## 📚 Table of Contents
 
 - [🏢 Business Context](#business-context)
